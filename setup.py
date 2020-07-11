@@ -3,14 +3,13 @@ from setuptools import setup
 setup(
     name="Numer-ai",
     version="0.0.1",
-    install_requires = 
-    [
+    install_requires=[
         "numpy",
         "pandas",
         "tensorflow",
         "numba"
-    ]
-    
+    ],
+
     # extras_require =
     # {
     #     "develop": ["dev-packageA", "dev-packageB"]
