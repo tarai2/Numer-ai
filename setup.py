@@ -7,7 +7,9 @@ setup(
         "numpy",
         "pandas",
         "tensorflow",
-        "numba"
+        "numba",
+        "numerapi",
+        "investpy"  # require numpy 1.17.3
     ],
 
     # extras_require =
