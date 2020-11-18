@@ -1,0 +1,66 @@
+2020-11-18 14:48:26|A new study created in memory with name: no-name-44a1e9fe-9c90-4bd7-8748-1cad6ea09620
+2020-11-18 14:48:41|Trial 0 finished with value: 0.12469229976310464 and parameters: {'feature_fraction': 0.5}. Best is trial 0 with value: 0.12469229976310464.
+2020-11-18 14:48:47|Trial 1 finished with value: 0.12470984886025131 and parameters: {'feature_fraction': 0.8999999999999999}. Best is trial 0 with value: 0.12469229976310464.
+2020-11-18 14:48:56|Trial 2 finished with value: 0.12469690187073769 and parameters: {'feature_fraction': 0.6}. Best is trial 0 with value: 0.12469229976310464.
+2020-11-18 14:49:04|Trial 3 finished with value: 0.1246969018707377 and parameters: {'feature_fraction': 0.7}. Best is trial 0 with value: 0.12469229976310464.
+2020-11-18 14:49:23|Trial 4 finished with value: 0.12468221366031866 and parameters: {'feature_fraction': 0.4}. Best is trial 4 with value: 0.12468221366031866.
+2020-11-18 14:49:33|Trial 5 finished with value: 0.12472382889765897 and parameters: {'feature_fraction': 1.0}. Best is trial 4 with value: 0.12468221366031866.
+2020-11-18 14:49:39|Trial 6 finished with value: 0.12470984886025131 and parameters: {'feature_fraction': 0.8}. Best is trial 4 with value: 0.12468221366031866.
+2020-11-18 14:50:05|Trial 7 finished with value: 0.12468584611108983 and parameters: {'num_leaves': 247}. Best is trial 7 with value: 0.12468584611108983.
+2020-11-18 14:50:14|Trial 8 finished with value: 0.12468082214598118 and parameters: {'num_leaves': 51}. Best is trial 8 with value: 0.12468082214598118.
+2020-11-18 14:50:29|Trial 9 finished with value: 0.12468011897210812 and parameters: {'num_leaves': 182}. Best is trial 9 with value: 0.12468011897210812.
+2020-11-18 14:50:39|Trial 10 finished with value: 0.12468293872401301 and parameters: {'num_leaves': 199}. Best is trial 9 with value: 0.12468011897210812.
+2020-11-18 14:50:47|Trial 11 finished with value: 0.12468787212971115 and parameters: {'num_leaves': 19}. Best is trial 9 with value: 0.12468011897210812.
+2020-11-18 14:51:03|Trial 12 finished with value: 0.1246773363836574 and parameters: {'num_leaves': 81}. Best is trial 12 with value: 0.1246773363836574.
+2020-11-18 14:51:11|Trial 13 finished with value: 0.12467203635782508 and parameters: {'num_leaves': 124}. Best is trial 13 with value: 0.12467203635782508.
+2020-11-18 14:51:16|Trial 14 finished with value: 0.12467727034136795 and parameters: {'num_leaves': 90}. Best is trial 13 with value: 0.12467203635782508.
+2020-11-18 14:51:28|Trial 15 finished with value: 0.1246718010202552 and parameters: {'num_leaves': 121}. Best is trial 15 with value: 0.1246718010202552.
+2020-11-18 14:51:37|Trial 16 finished with value: 0.12467443392886479 and parameters: {'num_leaves': 142}. Best is trial 15 with value: 0.1246718010202552.
+2020-11-18 14:51:44|Trial 17 finished with value: 0.12467356480506075 and parameters: {'num_leaves': 132}. Best is trial 15 with value: 0.1246718010202552.
+2020-11-18 14:51:58|Trial 18 finished with value: 0.12467595440785521 and parameters: {'num_leaves': 165}. Best is trial 15 with value: 0.1246718010202552.
+2020-11-18 14:52:20|Trial 19 finished with value: 0.1246725182570696 and parameters: {'num_leaves': 105}. Best is trial 15 with value: 0.1246718010202552.
+2020-11-18 14:52:27|Trial 20 finished with value: 0.1246828403997709 and parameters: {'num_leaves': 222}. Best is trial 15 with value: 0.1246718010202552.
+2020-11-18 14:52:28|Trial 21 finished with value: 0.12467614959595227 and parameters: {'num_leaves': 93}. Best is trial 15 with value: 0.1246718010202552.
+2020-11-18 14:52:28|Trial 22 finished with value: 0.12467147542974436 and parameters: {'num_leaves': 114}. Best is trial 22 with value: 0.12467147542974436.
+2020-11-18 14:52:29|Trial 23 finished with value: 0.12467354154605635 and parameters: {'num_leaves': 129}. Best is trial 22 with value: 0.12467147542974436.
+2020-11-18 14:52:29|Trial 24 finished with value: 0.12468046181908107 and parameters: {'num_leaves': 62}. Best is trial 22 with value: 0.12467147542974436.
+2020-11-18 14:52:29|Trial 25 finished with value: 0.12467645089623604 and parameters: {'num_leaves': 156}. Best is trial 22 with value: 0.12467147542974436.
+2020-11-18 14:52:30|Trial 26 finished with value: 0.12467218958369489 and parameters: {'num_leaves': 120}. Best is trial 22 with value: 0.12467147542974436.
+2020-11-18 14:52:30|Trial 27 finished with value: 0.12467835535874558 and parameters: {'bagging_fraction': 0.786964265760033, 'bagging_freq': 5}. Best is trial 27 with value: 0.12467835535874558.
+2020-11-18 14:52:31|Trial 28 finished with value: 0.1246820042046153 and parameters: {'bagging_fraction': 0.4210538990700921, 'bagging_freq': 1}. Best is trial 27 with value: 0.12467835535874558.
+2020-11-18 14:52:32|Trial 29 finished with value: 0.12467218768026485 and parameters: {'bagging_fraction': 0.9998320633358755, 'bagging_freq': 7}. Best is trial 29 with value: 0.12467218768026485.
+2020-11-18 14:52:32|Trial 30 finished with value: 0.12468061990507923 and parameters: {'bagging_fraction': 0.4101006430694244, 'bagging_freq': 1}. Best is trial 29 with value: 0.12467218768026485.
+2020-11-18 14:52:33|Trial 31 finished with value: 0.12467613076490429 and parameters: {'bagging_fraction': 0.9937036449923906, 'bagging_freq': 7}. Best is trial 29 with value: 0.12467218768026485.
+2020-11-18 14:52:33|Trial 32 finished with value: 0.12467069281493798 and parameters: {'bagging_fraction': 0.9995331976144334, 'bagging_freq': 7}. Best is trial 32 with value: 0.12467069281493798.
+2020-11-18 14:52:34|Trial 33 finished with value: 0.12467777604061929 and parameters: {'bagging_fraction': 0.7684038033918819, 'bagging_freq': 4}. Best is trial 32 with value: 0.12467069281493798.
+2020-11-18 14:52:34|Trial 34 finished with value: 0.12467610172853716 and parameters: {'bagging_fraction': 0.5918872996252651, 'bagging_freq': 6}. Best is trial 32 with value: 0.12467069281493798.
+2020-11-18 14:52:35|Trial 35 finished with value: 0.12467570048333354 and parameters: {'bagging_fraction': 0.8874833414827286, 'bagging_freq': 3}. Best is trial 32 with value: 0.12467069281493798.
+2020-11-18 14:52:35|Trial 36 finished with value: 0.12468030125116114 and parameters: {'bagging_fraction': 0.585005516724136, 'bagging_freq': 3}. Best is trial 32 with value: 0.12467069281493798.
+2020-11-18 14:52:36|Trial 37 finished with value: 0.1246906895882895 and parameters: {'feature_fraction': 0.48000000000000004}. Best is trial 37 with value: 0.1246906895882895.
+2020-11-18 14:52:36|Trial 38 finished with value: 0.12467069281493798 and parameters: {'feature_fraction': 0.41600000000000004}. Best is trial 38 with value: 0.12467069281493798.
+2020-11-18 14:52:37|Trial 39 finished with value: 0.12469068958828951 and parameters: {'feature_fraction': 0.44800000000000006}. Best is trial 38 with value: 0.12467069281493798.
+2020-11-18 14:52:38|Trial 40 finished with value: 0.12467069281519129 and parameters: {'lambda_l1': 2.672415500146699e-08, 'lambda_l2': 1.1129989559254063e-05}. Best is trial 40 with value: 0.12467069281519129.
+2020-11-18 14:52:38|Trial 41 finished with value: 0.1246706928150927 and parameters: {'lambda_l1': 1.014848183591347e-07, 'lambda_l2': 6.432931340556417e-06}. Best is trial 41 with value: 0.1246706928150927.
+2020-11-18 14:52:39|Trial 42 finished with value: 0.12467069281504371 and parameters: {'lambda_l1': 2.5086410689233365e-08, 'lambda_l2': 4.437423632612712e-06}. Best is trial 42 with value: 0.12467069281504371.
+2020-11-18 14:52:39|Trial 43 finished with value: 0.12467069281503064 and parameters: {'lambda_l1': 1.409650065653919e-08, 'lambda_l2': 3.7796673118294927e-06}. Best is trial 43 with value: 0.12467069281503064.
+2020-11-18 14:52:40|Trial 44 finished with value: 0.1246706928150305 and parameters: {'lambda_l1': 1.7803650349727886e-08, 'lambda_l2': 3.7887597493104906e-06}. Best is trial 44 with value: 0.1246706928150305.
+2020-11-18 14:52:41|Trial 45 finished with value: 0.12467069281498137 and parameters: {'lambda_l1': 1.2016955866022915e-08, 'lambda_l2': 1.4490861317456605e-06}. Best is trial 45 with value: 0.12467069281498137.
+2020-11-18 14:52:41|Trial 46 finished with value: 0.12468101620778829 and parameters: {'lambda_l1': 8.683463181525257, 'lambda_l2': 2.3817178074004304e-08}. Best is trial 45 with value: 0.12467069281498137.
+2020-11-18 14:52:42|Trial 47 finished with value: 0.12467069281494517 and parameters: {'lambda_l1': 1.2184334743780864e-08, 'lambda_l2': 1.3522196295195837e-07}. Best is trial 47 with value: 0.12467069281494517.
+2020-11-18 14:52:42|Trial 48 finished with value: 0.12467069281724073 and parameters: {'lambda_l1': 1.736456413820093e-05, 'lambda_l2': 1.3414423529369797e-08}. Best is trial 47 with value: 0.12467069281494517.
+2020-11-18 14:52:43|Trial 49 finished with value: 0.12467552343520236 and parameters: {'lambda_l1': 3.6399492244797204e-06, 'lambda_l2': 2.316992591804723}. Best is trial 47 with value: 0.12467069281494517.
+2020-11-18 14:52:44|Trial 50 finished with value: 0.12467212870862708 and parameters: {'lambda_l1': 0.050026596536675384, 'lambda_l2': 9.878330127805433e-08}. Best is trial 47 with value: 0.12467069281494517.
+2020-11-18 14:52:44|Trial 51 finished with value: 0.12467069281497623 and parameters: {'lambda_l1': 1.1440436100342688e-08, 'lambda_l2': 1.2742617457865138e-06}. Best is trial 47 with value: 0.12467069281494517.
+2020-11-18 14:52:45|Trial 52 finished with value: 0.1246706928149496 and parameters: {'lambda_l1': 1.3938840880773158e-08, 'lambda_l2': 3.2117957812839397e-07}. Best is trial 47 with value: 0.12467069281494517.
+2020-11-18 14:52:45|Trial 53 finished with value: 0.12467069281504173 and parameters: {'lambda_l1': 7.267085569825861e-07, 'lambda_l2': 1.492063503689528e-07}. Best is trial 47 with value: 0.12467069281494517.
+2020-11-18 14:52:46|Trial 54 finished with value: 0.12467069284319578 and parameters: {'lambda_l1': 1.1139321921141864e-08, 'lambda_l2': 0.0012543775721394204}. Best is trial 47 with value: 0.12467069281494517.
+2020-11-18 14:52:46|Trial 55 finished with value: 0.12467069281499538 and parameters: {'lambda_l1': 3.4555096319401895e-07, 'lambda_l2': 2.692233601094506e-07}. Best is trial 47 with value: 0.12467069281494517.
+2020-11-18 14:52:47|Trial 56 finished with value: 0.12467069281843209 and parameters: {'lambda_l1': 1.1433637530139929e-08, 'lambda_l2': 0.00015239620004801316}. Best is trial 47 with value: 0.12467069281494517.
+2020-11-18 14:52:48|Trial 57 finished with value: 0.12467173639879345 and parameters: {'lambda_l1': 0.0027719958603363557, 'lambda_l2': 4.2252109635830167e-07}. Best is trial 47 with value: 0.12467069281494517.
+2020-11-18 14:52:48|Trial 58 finished with value: 0.12467069281868583 and parameters: {'lambda_l1': 2.2615710662442773e-07, 'lambda_l2': 0.00016119604259063895}. Best is trial 47 with value: 0.12467069281494517.
+2020-11-18 14:52:49|Trial 59 finished with value: 0.12467069281557393 and parameters: {'lambda_l1': 4.8166283961456954e-06, 'lambda_l2': 1.0446143677711219e-08}. Best is trial 47 with value: 0.12467069281494517.
+2020-11-18 14:52:49|Trial 60 finished with value: 0.12467190838346928 and parameters: {'min_child_samples': 10}. Best is trial 60 with value: 0.12467190838346928.
+2020-11-18 14:52:50|Trial 61 finished with value: 0.12467198072268837 and parameters: {'min_child_samples': 25}. Best is trial 60 with value: 0.12467190838346928.
+2020-11-18 14:52:51|Trial 62 finished with value: 0.12467667200531317 and parameters: {'min_child_samples': 50}. Best is trial 60 with value: 0.12467190838346928.
+2020-11-18 14:52:51|Trial 63 finished with value: 0.12467521560653881 and parameters: {'min_child_samples': 100}. Best is trial 60 with value: 0.12467190838346928.
+2020-11-18 14:52:52|Trial 64 finished with value: 0.12467123218914007 and parameters: {'min_child_samples': 5}. Best is trial 64 with value: 0.12467123218914007.

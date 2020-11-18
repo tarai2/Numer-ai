@@ -1,0 +1,12 @@
+為替,コモ,Bond,EquityIndex -> それぞれの予測
+
+Models:
+- GCN
+
+
+- CNN+LSTM
+
+
+- Tree
+
+
