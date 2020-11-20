@@ -10,3 +10,7 @@ __pycache__/*
 *.hdf
 *.pkl
 *.zip
+example_model.*
+numerox_example.*
+analysis_and_tips.*
+auth_info.py
